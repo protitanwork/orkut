@@ -1,0 +1,21 @@
+# Orkut Login Page Clone
+
+Projeto desenvolvido com o objetivo de **praticar HTML e CSS**, recriando a interface clássica da tela de login do Orkut.
+
+## 🎯 Objetivo
+Treinar conceitos fundamentais de **estruturação semântica em HTML** e **estilização com CSS**, com atenção a layout, tipografia e organização visual.
+
+## 🛠️ Tecnologias utilizadas
+- HTML5  
+- CSS3  
+
+## 📚 Conceitos praticados
+- Estrutura básica de páginas HTML  
+- Organização de elementos em layout  
+- Estilização com CSS  
+- Uso de classes e hierarquia de estilos  
+- Alinhamento e espaçamento de componentes  
+
+## 🚀 Como visualizar o projeto
+1. Clone o repositório:
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
