@@ -1,8 +1,4 @@
-:root {
-    background-color: #f0c9ea;
-    font-family: 'segoe UI', Arial, Helvetica, sans-serif;
 
-}
 
 .container {
     width: 80%;
@@ -63,7 +59,6 @@
 #btnLogin {
     width: 100%;
     border: none;
-    background-color: #e8258e;
     color: #ffffff;
     padding: 5px;
     border-radius: 5px;
